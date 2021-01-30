@@ -23,5 +23,5 @@ p.setRange(xRange = [-5 * np.pi, 5*np.pi],yRange = [-2.3,2.3],padding = 0)
 app.exec_()
 
 while 1 :
-    
-# caonima
+    pass
+
